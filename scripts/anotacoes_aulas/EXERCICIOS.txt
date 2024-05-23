@@ -1,0 +1,27 @@
+
+DESAFIO 72
+    Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de 0 até 20. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso. Ex: Digitou 15, printa Quinze.
+
+DESAFIO 73
+    Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre:
+    A) Apenas os 5 primeiros colocados
+    B) Os últimos 4 colocados
+    C) Uma lista com os times em ordem alfabética
+    D) Em que posição na tabela está o time Chapecoense.
+
+DESAFIO 74
+    Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla.
+    Depois disso mostre a listagem dos números gerados e indique o maior e o menor valor dentro da tupla.
+
+DESAFIO 75
+    Desenvolva um programa que leia 4 valores pelo teclado e guarde em uma tupla. 
+    A) Quantas vezes aparece o valor 9
+    B) Em que posição foi digitado o primeiro valor 3
+    C) Quais foram os números pares
+
+DESAFIO 76
+    Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços na sequência. No final, mostre uma listagem de preços organizando os dados em forma tabular.
+
+DESAFIO 77
+    Crie um programa que tenha uma tupla com várias palavras. Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
+
